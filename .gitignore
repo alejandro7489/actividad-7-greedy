@@ -1,0 +1,5 @@
+# Ejecutables compilados
+*.exe
+
+# Archivos de configuración local de editores
+.vscode/
